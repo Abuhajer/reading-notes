@@ -56,7 +56,7 @@ A file or directory location in relation to the root of the file system.
  the first thing we need to appreciate with linux is that under the hood, **everything is actually a file**
  your keyboard is a file , your monitor is a file ,for the system.
 
-so to know about system, Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file.
+So to know about system, Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file.
 
 so lets say about linux its 
 1. Linux is Case Sensitive
@@ -73,13 +73,13 @@ List the contents of a directory, including hidden files.
 
 
 **Everything is a file** under Linux.
-Even directories./
+Even directories.\
 
 Linux is an extensionless system.
-Files can have any extension they like or none at all./
+Files can have any extension they like or none at all.\
 
 Linux is **case sensitive**
-Beware of silly typos./
+Beware of silly typos.
 
 
 
