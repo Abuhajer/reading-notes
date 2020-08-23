@@ -1,4 +1,3 @@
-# reading-notes
 # Growth Mindset 
 ### I'ts beleave that u can make your mind have a best understanding by working hard on it
 ## So 3 important thing you need to **remember** if you want to keep mindset growth .
