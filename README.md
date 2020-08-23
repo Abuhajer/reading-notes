@@ -8,3 +8,9 @@
 ![Growth Mindset](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png)
 
 > *It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein*
+
+
+
+Contact me 
+[Facebook](https://www.facebook.com/abuhager1)
+[Linkenin](https://www.linkedin.com/in/ahmad-abuhajer-a75b23189/)
