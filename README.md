@@ -1,11 +1,11 @@
 # reading-notes
-#Growth Mindset 
-#### I'ts beleave that u can make your mind have a best understanding by working hard on it
-##so 3 important thing u need to **remember** if u want to keep mindset growth 
+# Growth Mindset 
+### I'ts beleave that u can make your mind have a best understanding by working hard on it
+## So 3 important thing you need to **remember** if you want to keep mindset growth .
 1. Keep Learning
 2. dont  upset yourself and look forward 
 3. try somthing new 
 
 ![Growth Mindset](https://bronxjiujitsu.com/upload/blogs/Screen_Shot_2019-12-17_at_3.51_.22_PM_.png)
 
->It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein
+> *It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein*
