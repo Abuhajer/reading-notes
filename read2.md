@@ -1,5 +1,5 @@
 
-#Code Editors
+# Code Editors
 
 ## The diffrent between the code editors its the features that the editor have , so its very important to developers ,why!?
 
@@ -10,7 +10,6 @@ because the code editor with good feature can save a lot of time to developer an
 2. syntax highlighting
 3. series of themes
 
-//---------------------
 
 # Command Line
 Text based interface to the system typing using the keyboard and feedback to us as the text
@@ -72,11 +71,11 @@ obtain information about what type of file a file or directory is.
 **ls -a**
 List the contents of a directory, including hidden files.
 
-//------------------
-**Everything is a file** under Linux
+
+**Everything is a file** under Linux.
 Even directories.
 
-Linux is an extensionless system
+Linux is an extensionless system.
 Files can have any extension they like or none at all.
 
 Linux is **case sensitive**
