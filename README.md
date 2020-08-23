@@ -13,7 +13,7 @@
 
 **Contact me**\
 Ahmad Amin Abuhajer\
-Email: Abuhagerr@gmail.com\
+Email: [Abuhagerr@gmail.com](Abuhagerr@gmail.com)\
 Phone: 0799999999\
-[Facebook](https://www.facebook.com/abuhager1) [Linkenin](https://www.linkedin.com/in/ahmad-abuhajer-a75b23189/)
+[Facebook](https://www.facebook.com/abuhager1)   [LinkenIn](https://www.linkedin.com/in/ahmad-abuhajer-a75b23189/)
 
