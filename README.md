@@ -11,6 +11,9 @@
 
 
 
-Contact me 
-[Facebook](https://www.facebook.com/abuhager1)
-[Linkenin](https://www.linkedin.com/in/ahmad-abuhajer-a75b23189/)
+**_Contact me _**
+Ahmad Amin Abuhajer
+Email: Abuhagerr@gmail.com
+Phone: 0799999999
+[Facebook](https://www.facebook.com/abuhager1) [Linkenin](https://www.linkedin.com/in/ahmad-abuhajer-a75b23189/)
+
