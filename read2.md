@@ -18,9 +18,9 @@ its a bit daunting , but need some time.
 
 there a diffreance way to open terminal depens on os 
 
-If you're on a **Mac** then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
-If on **Linux** then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
-If you are on **Windows** and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) .
+1. If you're on a **Mac** then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+2. If on **Linux** then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
+3. If you are on **Windows** and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) .
 
 Finialy Linux is full of shortcuts to help make your life easier
 
@@ -62,7 +62,7 @@ so lets say about linux its
 1. Linux is Case Sensitive
 2. Linux is an Extensionless System
 
-So lets make a summary about it 
+#### So lets make a summary about it \
 
 
 **file**
@@ -73,13 +73,13 @@ List the contents of a directory, including hidden files.
 
 
 **Everything is a file** under Linux.
-Even directories.
+Even directories.\
 
 Linux is an extensionless system.
-Files can have any extension they like or none at all.
+Files can have any extension they like or none at all.\
 
 Linux is **case sensitive**
-Beware of silly typos.
+Beware of silly typos.\
 
 
 
