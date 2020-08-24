@@ -68,10 +68,10 @@ git push origin master
 
 # Stashing Changes
 When you are **not ready to commit** changes but do not want to lose them either, **git stash** is a great option.
-This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
+This command temporarily removes changes and hides them and When you are ready to continue working use the **git stash apply** command to retrieve the hidden changes.
 
 # Remote Repositories
-In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
+You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
 
 # Cloned Repositories
 As mentioned earlier, for cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.
