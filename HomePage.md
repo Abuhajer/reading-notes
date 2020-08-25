@@ -7,4 +7,5 @@
 # 2.  [About Git](read3.md)
 # 3. [Code Editors](read2.md)
 # 4. [Mindset](README.md)
-# 5. [About CSS and Color](read5.md)
+# 5. [About HTML](read4.md)
+# 6. [About CSS and Color](read5.md)
