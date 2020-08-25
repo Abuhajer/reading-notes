@@ -9,3 +9,4 @@
 # 4. [Mindset](README.md)
 # 5. [About HTML](read4.md)
 # 6. [About CSS and Color](read5.md)
+# 6. [About JavaScript](read6a.md)
