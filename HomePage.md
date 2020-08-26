@@ -12,3 +12,4 @@
 # 7. [About JavaScript](read6a.md)
 # 8. [About Computer Architecture and Logic](read6b.md)
 # 9. [About Programming with JavaScript](read7.md)
+# 9. [Operators and Loops in JaveScript](read8.md)
