@@ -1,4 +1,4 @@
-4# What make a computer a computer 
+# What make a computer a computer 
 its just **4** steps :
 if the device do 
 1. Take input  
