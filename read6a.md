@@ -27,7 +27,9 @@ example : var Variable_name;
 2. string : "ahmad " ,'a'
 3. boolean : True 
 
+
 and u cant store in them what u want depens on datatype
+
 
 ## There are ruls for naming variables :
 1. must begin with a letter, dollar sign ($),or anunderscore (_)

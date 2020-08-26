@@ -7,7 +7,7 @@ is a system that allows you to revisit various versions of a file or set of file
 2. Centralized Version Control
 3. Distributed Version Control
 
-# what is Git?
+# what is Git? 
 Git is a DVCS that stores data in a file system made up of snapshots, so its tracking changes, and keep you from loss data ,all that done localy
 HISTORY OF GIT
 GETTING STARTED

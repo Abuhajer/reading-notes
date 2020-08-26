@@ -14,7 +14,7 @@ you can use this to compare
 
 and there are **logical operater**
 1. logical And  (&&)
-2. Logical OR   (||)
+2. Logical OR   ( "||" )
 3. Logical Not  (!)
 
 # Loops?
