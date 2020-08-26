@@ -20,7 +20,7 @@ and there are **logical operater**
 # Loops?
 loops its check condition , if its return true them code block will run then its recheck again so every true will run the block code until its false 
 
-## Types of lopps
+## Types of loops
 1. For
 2. While
 3. Do While
