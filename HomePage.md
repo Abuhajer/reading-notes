@@ -9,4 +9,6 @@
 # 4. [Mindset](README.md)
 # 5. [About HTML](read4.md)
 # 6. [About CSS and Color](read5.md)
-# 6. [About JavaScript](read6a.md)
+# 7. [About JavaScript](read6a.md)
+# 8. [About Computer Architecture and Logic](read6b.md)
+# 9. [About Programming with JavaScript](read7.md)
